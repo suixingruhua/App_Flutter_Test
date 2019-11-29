@@ -35,7 +35,8 @@ class HomeContent extends StatelessWidget {
               fontStyle: FontStyle.italic,
               decoration: TextDecoration.lineThrough,
               decorationColor: Colors.white,
-              decorationStyle: TextDecorationStyle.dashed
+              decorationStyle: TextDecorationStyle.dashed,
+              letterSpacing: 5.0
           ),
           maxLines: 1,
           textScaleFactor: 2,
