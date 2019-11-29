@@ -1,2 +1,2 @@
 # App_Flutter_Test
-测试、学习
+It's a Flutter learning, testing project.
